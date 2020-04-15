@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "4/14/2020",
-  "totalGiven": 654472,
+  "lastUpdated": "4/15/2020",
+  "totalGiven": 657602,
   "committedByJeremy": 500000,
-  "publicDonations": 77236,
-  "matchedByJeremy": 77236,
+  "publicDonations": 78801,
+  "matchedByJeremy": 78801,
   "featuredOrganizations": [
     {
       "title": "Feeding America",
@@ -11,15 +11,15 @@
       "link": "https://www.feedingamerica.org/jeremylin",
       "goal": 50000,
       "raised": 37251,
-      "lastUpdated": "4/14/2020"
+      "lastUpdated": "4/15/2020"
     },
     {
       "title": "Direct Relief",
       "description": "Since COVID-19 first appeared, Direct Relief has delivered 1.4 million masks, 2.6 million gloves, and more than 575,000 other pieces of personal protective equipment to healthcare workers at 1,063 medical institutions in 32 countries worldwide.",
       "link": "https://www.directrelief.org/jlin7",
       "goal": 50000,
-      "raised": 39825,
-      "lastUpdated": "4/14/2020"
+      "raised": 41550,
+      "lastUpdated": "4/15/2020"
     }
   ]
 }
