@@ -1,0 +1,22 @@
+{
+  "name": "jlin-covid-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jsonlint fundingData.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lintaho/jlin-covid-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lintaho/jlin-covid-data/issues"
+  },
+  "homepage": "https://github.com/lintaho/jlin-covid-data#readme",
+  "dependencies": {
+    "jsonlint": "^1.6.3"
+  }
+}
