@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "5/5/2020",
-  "totalGiven": 947644,
+  "lastUpdated": "5/11/2020",
+  "totalGiven": 978330,
   "committedByJeremy": 500000,
-  "publicDonations": 223822,
-  "matchedByJeremy": 223822,
+  "publicDonations": 239165,
+  "matchedByJeremy": 239165,
   "featuredOrganizations": [
     {
       "title": "Feeding America",
       "description": "The Feeding America food bank network is committed to serving communities and people facing hunger in America during the COVID-19 pandemic. They provide meals to more than 40 million people each year through their 200 food banks, 60,000 food pantries and meal programs.",
       "link": "https://www.feedingamerica.org/jeremylin",
       "goal": 100000,
-      "raised": 121202,
-      "lastUpdated": "5/5/2020"
+      "raised": 125865,
+      "lastUpdated": "5/11/2020"
     },
     {
       "title": "Direct Relief",
       "description": "Since COVID-19 first appeared, Direct Relief has delivered 1.4 million masks, 2.6 million gloves, and more than 575,000 other pieces of personal protective equipment to healthcare workers at 1,063 medical institutions in 32 countries worldwide.",
       "link": "https://www.directrelief.org/jlin7",
       "goal": 100000,
-      "raised": 102620,
-      "lastUpdated": "5/5/2020"
+      "raised": 113300,
+      "lastUpdated": "5/11/2020"
     }
   ],
   "communityOrganizations": [
