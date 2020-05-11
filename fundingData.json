@@ -42,7 +42,8 @@
       "description": "Want to be a light to those in need during these challenging times? Please join Tapestry LA and the Jeremy Lin Foundation in #BeTheLight campaign, we are partnering to raise funds to benefit Feeding America, to support families in need during COVID-19. Every dollar raised will also be matched by Jeremy himself. Thanks in advance for your contribution to this cause.",
       "buttonLabel": "Donate to Feeding America",
       "link": "https://www.gofundme.com/f/tkvpy-bethelight-campaign-for-feeding-america",
-      "complete": true
+      "complete": true,
+      "completeText": "Funding reached! $30,760 raised of $20,000 goal"
     }
   ]
 }
