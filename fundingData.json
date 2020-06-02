@@ -28,7 +28,8 @@
       "description": "Center for Family Life, a program of SCO Family of Services, is a neighborhood-based family and social services organization with deep roots in Sunset Park, Brooklyn. The work of Center for Family Life is grounded in the daily, lived experience of the Sunset Park community and guided by a vision of neighborhood families and social institutions evolving over time and contributing to each other’s ongoing development. During COVID-19, Center for Family Life is providing food pantry programs, virtual after school programs, and free tax preparation to serve families impacted by COVID-19.",
       "buttonLabel": "Donate to Center for Family Life",
       "link": "https://www.gofundme.com/f/bethelight-campaign-for-center-for-family-life?utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=ad514cb1125c4618a4179157b8f5747c",
-      "complete": false
+      "complete": true,
+      "completeText": "Funding reached! $20,171 raised of $20,000 goal"
     },
     {
       "title": "Mobilize Love",
@@ -36,7 +37,7 @@
       "buttonLabel": "Donate to Mobilize Love",
       "link": "https://www.gofundme.com/f/bethelight-campaign-for-mobilize-love?utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=7098c272632340bc9b294dae3928eb81",
       "complete": true,
-      "completeText": "Funding reached! $20,171 raised of $20,000 goal"
+      "completeText": "Funding reached! $20,497 raised of $20,000 goal"
     },
     {
       "title": "Love Beyond Walls",
